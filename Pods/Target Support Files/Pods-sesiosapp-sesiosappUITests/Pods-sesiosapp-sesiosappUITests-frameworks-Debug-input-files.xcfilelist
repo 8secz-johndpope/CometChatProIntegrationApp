@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-sesiosapp-sesiosappUITests/Pods-sesiosapp-sesiosappUITests-frameworks.sh
+${PODS_ROOT}/CometChatPro/CometChatPro.framework
+${PODS_ROOT}/CometChatPro/Vendors/JitsiMeet.framework
+${PODS_ROOT}/CometChatPro/Vendors/WebRTC.framework
